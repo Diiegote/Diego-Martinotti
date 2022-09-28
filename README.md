@@ -1,5 +1,5 @@
 # Diego-Martinotti
-<img src=https://media.istockphoto.com/photos/program-code-javascript-php-html-css-of-site-web-development-source-picture-id1202250586?k=20&m=1202250586&s=612x612&w=0&h=bWJ7TqcuGZTTCg521Xz3pBkvKonkwp-QqnBduX00dJA=/>
+<img src=https://ayudawp.com/wp-content/uploads/2021/07/snippet-codigo-wordpress.jpg/>
 
 
 
