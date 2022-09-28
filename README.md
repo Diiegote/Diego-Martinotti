@@ -1,5 +1,5 @@
 # Diego-Martinotti
-<img src=https://ayudawp.com/wp-content/uploads/2021/07/snippet-codigo-wordpress.jpg/>
+<img src="https://ayudawp.com/wp-content/uploads/2021/07/snippet-codigo-wordpress.jpg"/>
 
 
 
