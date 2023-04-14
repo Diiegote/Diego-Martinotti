@@ -22,6 +22,6 @@ Linkedin: https://www.linkedin.com/in/diego-martinotti-a8aa13222/
 
 
 
-Tecnologias:| HTML | CSS | JavaScript | NodeJS | Express | React | Redux | MongoDB | SQL
+Tecnologias:|  NodeJS | Express| SQL | MongoDB | React.js | Redux | HTML| CSS | Python | Django | TypeScript |
 
 <img src="https://user-images.githubusercontent.com/96552684/192636928-3df65e89-b231-4a6e-96e1-02f167a8ee0a.png"/>
