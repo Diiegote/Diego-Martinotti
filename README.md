@@ -3,21 +3,15 @@
 
 
 
-Full Stack Developer con formación como Diseñador
-Web. Lideré la creación de un E-commerce para el
-diseño y compra de ensaladas. Con pensamiento
-creativo, resolución de problemas, trabajo en equipo,
-comunicación y autonomía.
-Estoy en búsqueda de una oportunidad laboral
-que me permita aplicar y reforzar mis conocimientos,
-continuar aprendiendo y creciendo profesionalmente.
+Soy un desarrollador web apasionado por el backend, con experiencia en JavaScript, React, Redux, CSS, NodeJS, Express, Postgres y MongoDB.
+Tengo experiencia en el desarrollo de aplicaciones web bajo la metodología SCRUM en trabajos en equipo.
+Me he destacado en el desarrollo y optimización tanto del  backend como del frontend en diversos proyectos,
+donde tuve la oportunidad de aprender y afianzar los conocimientos necesarios para la creación de aplicaciones estables y robustas.
+ Si necesitas un desarrollador web que pueda trabajar en el backend o en el frontend, y que tenga habilidades blandas como trabajar en equipo, adaptabilidad, responsabilidad y pensamiento crítico, entonces no dudes en contactarme.
+ 
 Cuento con disponibilidad full time y mis datos de contacto son los siguientes:
 
 Email: diego.martinotti@hotmail.com
-Email: diego.elprado22@gmail.com
-
-Movil: +54 2364-703985
-
 Linkedin: https://www.linkedin.com/in/diego-martinotti-a8aa13222/
 
 
